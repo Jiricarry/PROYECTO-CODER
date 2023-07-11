@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+
+h1{
+   background-color: darkslategrey;
+   font-size: 125px;
+   text-align: center;
+}
+nav{
+    background-color: goldenrod;
+    border: solid black 2px;
+    height: 50px;
+    
+ 
+    
+}
+
+.inline.list li
+{
+    display: inline-block;
+}
+
+.burger1{
+    height: 300px;
+    width: 300x;
+    margin: 2cm;
+    display: inline;
+}
+
+.divinicio
+{background-color: gold;
+    
+
+}
+
+.texto1{
+    font-size: 25px;
+    height: 500px; 
+    width: 500px;
+    position: relative;
+    margin: 2cm;
+   left: 650px;
+   bottom: 400px;
+
+    
+    
+    
+   
+
+
+}
+ul{
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    justify-content: space-evenly;
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.button{
+    border: solid 1px;
+    display: inline-flex;
+    height: 40px;
+   align-items: center;
+   justify-content: center;
+   background-color: rgb(71, 62, 29);
+   font-style: italic;
+   color: whitesmoke;
+   
+}
+.navegador{
+    color: whitesmoke;
+    padding-top: 5px;
+}
+
+.burger2{
+    height: 300px;
+    width: 500px;
+    display: inline;
+    position: relative;
+    bottom: 500px;
+    left: 750px;
+}
+
+.texto2{
+
+ font-size: 25px;
+    height: 500px; 
+    width: 500px;
+    position: relative;
+    bottom: 700px;
+    left: 100px;
+}
+
+.formulario{
+    background-color: rgb(117, 113, 113);
+    display:inline-block;
+    font-size: larger;
+}
+
+.h1contacto{
+    background-color: rgb(219, 193, 50);
+}
+
+.bodyform{
+    background-color: goldenrod;
+}
+
+.textarea1{
+    resize: none;
+    
+}
